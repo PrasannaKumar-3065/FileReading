@@ -25,8 +25,6 @@ public class files {
     }
     static void countWords(){
         String s = data.toString();
-        s.replaceAll("[^a-zA-Z0-9]+"," ");
-        s.replaceAll("( )+", " ");
         String[] k = s.split(" ");
         for(int i=0; i<k.length; i++){
             String word = "";
