@@ -1,0 +1,7 @@
+Because of the small contact area between the tip and the underlying surface, and the large rotational inertia of its body, a top that is started on a hard surface will usually keep spinning for tens of seconds or more, even without additional energy input.
+
+Typically the top will at first wobble until friction and torque between the tip and the underlying surface force it to spin with the axis steady and upright. Contrary to what is sometimes assumed, longstanding scientific studies (and easy experimentations reproducible by anyone) show that reducing the friction increases the time needed to reach this stable state (unless the top is so unbalanced that it falls over before reaching it).[7] After spinning upright (in the so-called "sleep" position) for an extended period, the angular momentum will gradually lessen (mainly due to friction), leading to ever increasing precession, finally causing the top to topple and roll some distance on its side. In the "sleep" period, and only in it, provided it is ever reached, less friction means longer "sleep" time (whence the common error that less friction implies longer global spinning time).
+
+The total spinning time of a top is generally increased by increasing its moment of inertia and lowering its center of gravity.[7] These variables however are constrained by the need to prevent the body from touching the ground.
+
+Asymmetric tops of virtually any shape can also be created and designed to balance.[8]
