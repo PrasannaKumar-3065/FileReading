@@ -70,7 +70,8 @@ public class files {
         w.add(w1);
     }
     public static void main(String[] args) throws IOException{
-        File f = new File("C:\\Users\\Tringapps-User5\\Desktop\\Maven projects\\ds\\src\\main\\java\\pk\\1.txt");
+        String path = "C:\\Users\\Tringapps-User5\\Desktop\\Maven projects\\ds\\src\\main\\java\\pk\\1.txt";
+        File f = new File(path);
         read(f);
         countWords();
         sort();
