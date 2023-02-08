@@ -11,7 +11,7 @@ class Words {
     }
 }
 
-public class files {
+public class FilesRead {
     private static final Logger LOGGER =  Logger.getLogger("InfoLogging");
     static ArrayList<Words> w = new ArrayList<>();
     static StringBuilder data = new StringBuilder("");
