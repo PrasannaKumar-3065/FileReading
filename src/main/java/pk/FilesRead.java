@@ -25,7 +25,8 @@ public class FilesRead {
         br.close();
     }
     public static void main(String[] args) throws IOException{
-        File f = new File("C:\\Users\\Tringapps-User5\\Desktop\\Maven projects\\ds\\src\\main\\java\\pk\\1.txt");
+        String path = "C:\\Users\\Tringapps-User5\\Desktop\\Maven projects\\ds\\src\\main\\java\\pk\\1.txt";
+        File f = new File(path);
         read(f);
         String str = ""+data;
         String[] words = str.split(" ");
